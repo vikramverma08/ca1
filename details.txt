@@ -1,0 +1,3 @@
+Name: Vikram
+Father's Name: Ram Parkash
+Regd_no: Your Registration Number
